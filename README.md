@@ -4,4 +4,3 @@ for i,v in pairs(game:GetService("Workspace").Zombies:GetChildren()) do
 wait(.1)
 end
 end
-
